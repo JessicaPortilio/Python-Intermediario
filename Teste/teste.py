@@ -1,1 +1,3 @@
 #teste
+
+print('Teste')
